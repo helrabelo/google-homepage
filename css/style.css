@@ -1,0 +1,25 @@
+/* BODY */
+
+body {
+    width: 100%;
+    min-height: 100%;
+}
+
+/* NAVBAR */
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: right;
+}
+
+li {
+    display: inline;
+}
+
+/* LOGO */
+
+/* SEARCH BAR */
+
+/* FOOTER */
